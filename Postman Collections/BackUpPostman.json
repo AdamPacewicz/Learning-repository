@@ -462,7 +462,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "GetOrganization",
 			"id": "5f261518-f472-4a42-8e13-00b927a81ec2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
